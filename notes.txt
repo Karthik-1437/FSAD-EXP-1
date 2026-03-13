@@ -1,1 +1,2 @@
 This is my Git Lab experiment 
+Bug fixed in project 
